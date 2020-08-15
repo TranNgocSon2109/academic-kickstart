@@ -64,6 +64,6 @@ user_groups:
 - Visitors
 ---
 
-NELSON Bighetti là giáo sư về trí tuệ nhân tạo tại Phòng thí nghiệm AI của Stanford. Các mối quan tâm nghiên cứu của anh ấy bao gồm robot phân tán, điện toán di động và vật chất có thể lập trình được. Ông lãnh đạo nhóm Sinh học thần kinh robot, chuyên phát triển các robot tự cấu hình lại, hệ thống tự tổ chức của robot và mạng cảm biến di động.
+Tôi là một sinh viên tốt nghiệp quan tâm đến lập trình web. Tôi đã dành hai năm ở Hà Nội với tư cách là một kỹ sư laahp trình viên. Một bản CV hoàn chỉnh có sẵn tại đây.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Không, cũng chưa phải là cuộc thi, tristique placerat feugiat ac, favisis vitae arcu. Trung cần tuyên truyền thực thi pháp luật. Trình bày dưới dạng sem num arcu aliquet pastyesque. Dành thời gian cho protein làm bài tập về nhà theo đường kính hoặc độ hấp dẫn.
+Tôi bắt đầu bằng cách đọc ngấu nghiến phần kỹ thuật lập trình của thư viện công cộng trên internet, tôi hy vọng sẽ là một người tham gia suốt đời với tư cách là một lập trình viên xuất sắc.
