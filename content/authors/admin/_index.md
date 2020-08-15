@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Ngọc Sơn
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Nhân Viên Kỹ Thuật
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Đại Học Kinh Tế Kỹ Thuật Công Nghiệp Hà Nội
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
