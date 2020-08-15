@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ngọc Sơn
+title:Trần Ngọc Sơn
 
 # Username (this should match the folder name)
 authors:
@@ -18,12 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Sở thích nghiên cứu của tôi bao gồm robot phân tán, điện toán di động và vật chất có thể lập trình được.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+Sở Thích:
+- Trí tuệ nhân tạo
+- Thuật ngữ máy tính
+- Truy xuất thông tin
 
 education:
   courses:
