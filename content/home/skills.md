@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Skills"
+title = "Kỹ Năng"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -24,13 +24,13 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = "70%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "PHP"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "php"
+  description = "70%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
